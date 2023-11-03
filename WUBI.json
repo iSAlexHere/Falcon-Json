@@ -2,7 +2,7 @@
     "WBUI2": {
         "settings": {
             "OpenButton": 0,
-            "HideIcon": false,
+            "HideIcon": true,
             "HideIconAfter": 60,
             "IconURL": "https://liquipedia.net/commons/images/d/da/Falcons_lightmode.png",
             "OpenOnStart": true,
