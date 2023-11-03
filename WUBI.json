@@ -1,61 +1,84 @@
 {
-    "WBUI2": {
-        "settings": {
-            "OpenButton": 0,
-            "HideIcon": false,
-            "HideIconAfter": 60,
-            "IconURL": "https://www.noelshack.com/2023-44-4-1698936737-arkfrancelogo.png",
-            "OpenOnStart": true,
-            "OpenOnStartOnlyNewPlayers": false,
-            "UpdateInterval": 12
-        },
-        "tabs": [
-            {
-                "tab1": {
-                    "layout": 1,
-                    "buttontext": "Bienvenue",
-                    "title1": "Bienvenue sur notre serveur jeune aventurier !",
-                    "text1": "Bienvenue sur notre serveur ARK Ascended - Là où les aventuriers deviennent des légendes ! Vous êtes prêt à vous plonger dans un monde brutal, préhistorique, rempli de mystères et de créatures fantastiques ? Alors ARK Ascended est l'endroit idéal pour vous ! Notre serveur ARK offre une expérience de jeu unique et immersive pour les survivants les plus intrépides.\n\nCaractéristiques du serveur :\nLa carte Ascension Exclusive : Explorez une version repensée de l'île d'ARK, avec des modifications uniques et des défis inédits qui vous attendent à chaque coin de la carte.\nCommunauté active : Rejoignez une communauté de joueurs passionnés qui partagent votre amour pour ARK. Notre serveur est composé de joueurs de tous niveaux d'expérience, prêts à s'entraider et à collaborer pour survivre.\nRessources équilibrées : Nous avons soigneusement ajusté les taux de récolte, de croissance et d'apprivoisement pour garantir un équilibre entre le défi de la survie et le plaisir de jouer.\nÉvénements spéciaux : Nous organisons régulièrement des événements spéciaux, des courses de dinosaures, des arènes de combat et bien plus encore pour pimenter votre aventure sur ARK.\nAdmin dévoués : Notre équipe d'administration est disponible pour résoudre les problèmes, garantir le fair-play et s'assurer que votre expérience de jeu est exceptionnelle.",
-                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
-                }
-            },
-            {
-                "tab2": {
-                    "layout": 2,
-                    "buttontext": "Règles",
-                    "title1": "Règles des serveur :",
-                    "text1": "Règlement général :\n1. Respect des autres joueurs :\n- Soyez courtois et respectueux envers les autres survivants.\n- Évitez les comportements offensants, le harcèlement, et les insultes.\n- Aucune discrimination, discours de haine ou langage inapproprié n'est toléré.\n\n2. Tricherie et exploitation de bugs :\n- Toute forme de triche, y compris l'utilisation de logiciels tiers, est strictement interdite.\n- N'exploitez pas les bugs du jeu pour obtenir un avantage injuste. Signalez-les plutôt à l'administration.\n\n3. Griefing et intimidation :\n- Ne casser pas intentionnellement les tames en cours des autres joueurs.\n- Évitez d'intimider les autres joueurs ou de les harceler.\n- Ne pas construire proche des autres joueurs pour éviter de ne plus pouvoir construire\n\n4. Piratage et vol :\n- Le vol d'identifiants ou de données personnelles est illégal et entraînera une expulsion immédiate et une dénonciation aux autorités compétentes.\n- N'échangez pas de comptes ARK ou de biens virtuels contre de l'argent réel.\n\n5. Remboursement en cas de crash :\n- Il n'y a pas de remboursement de stuff, dino etc sur un crash du serveur. (Nous ne sommes pas responsable des crashs du jeu)\n\n6. Publicité non autorisée :\n- Ne faites pas de publicité pour d'autres serveurs ou communautés sans autorisation préalable de l'administration.\n\n7. Administration du serveur :\n- Respectez les décisions et les instructions de l'administration du serveur.\n- Signalez tout comportement inapproprié ou toute infraction aux règles à l'administration.\n\n8. Respect des paramètres du serveur :\n- Ne modifiez pas intentionnellement les paramètres du serveur ou ne tentez pas de les contourner.\n\n9. Événements spéciaux :\n- Les événements spéciaux organisés par l'administration doivent être joués de manière équitable. Toute tentative de triche sera sévèrement sanctionnée.\n\n10. Règles additionnelles :\n- L'administration se réserve le droit d'ajouter des règles spécifiques au serveur en fonction des besoins.\n\nLe non-respect de ces règles peut entraîner des avertissements, des suspensions temporaires, ou même l'expulsion permanente du serveur, en fonction de la gravité de l'infraction. Assurez-vous que les règles sont claires et facilement accessibles aux joueurs, et veillez à les faire respecter de manière cohérente pour maintenir un environnement de jeu agréable pour tous les participants.",
-                    "title2": "Règlement Serveur ARK FRANCE :",
-                    "text2": "- Interdiction de jeter les œufs de wyverns, Magmasaure, deinonychus ou de rock drake sur les cartes. Vous empêchez le respawn des oeufs dans les nids, mangez-les !\n- Ne pas construire sur des zones à ressources (métal, cristal, obsidienne, pingouin, nids à castor, …)\n- Il est interdit de spammer les fondations pour réserver une zone\n- Vider totalement ou détruire les nids de castors pour permettre leur repop pour les prochains joueurs.\n- Laissez déverrouiller les extracteurs (pétroles, gaz et sève) pour que les autres joueurs puissent y accéder.\n- Il est interdit de bloquer les grottes contenant des artéfacts ou des glitch (pour genesis1)\n- Les enclos pour apprivoiser devront être enlevés après usage\n- Il est interdit de bloquer les ponts et les plages. Merci de laisser un passage pour les autres joueurs.\n- Il est interdit de construire des enclos démesurés par rapport à votre base et au nombre de dino.\n- Il est interdit de laisser des dinos agressifs sur la map\n- Il est interdit de bloquer les notes des explorateurs\n- Il est interdit de construire ou de mettre des tourelles dans les failles aux Wyvernes\n- Il est interdit de mettre des structures devant les drop et beacon pour les récupérer plus rapidement.\n- Il est totalement interdit de PL (Plow Leveling) les nouveaux joueurs que ce soit en leur faisant passer les boss, en leur craftant des structures qu’ils n’ont pas encore débloquées ou en leur donnant des dinos trop fort par rapport à leur level. En effet, vous risquez de gâcher leur expérience de jeu même si eux n’en sont pas conscients.",
-                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
-                }
-            }
-        ],
-        "links": [
-            {
-                "link1": {
-                    "text": "ARK-FRANCE.FR",
-                    "url": "https://ark-france.fr/"
-                }
-            },
-            {
-                "link2": {
-                    "text": "Notre Discord",
-                    "url": "https://discord.gg/DrCK6rQ7Yz"
-                }
-            },
-            {
-                "link3": {
-                    "text": "Mise à jour ARK : Ascended",
-                    "url": "https://ark-france.fr/patch-notes-ark-survival-ascended-en-francais/"
-                }
-            },
-            {
-                "link4": {
-                    "text": "Boutique",
-                    "url": "https://survivetheark.fr/"
-                }
-            }
-        ]
-    }
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": false,
+        "HideIconAfter": 60,
+        "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+        "DisableIconText": false,
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "1 Box layout",
+          "title1": "Welcome to WBUI2!",
+          "text1": "your text could be here.\n\nBTW, you can add as many tabs/links as you want, just follow the syntax... Until it doesnt fit anymore :)",
+          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+        }
+      },
+      {
+        "tab2": {
+          "layout": 2,
+          "buttontext": "2 Box layout",
+          "title1": "Left title",
+          "title2": "Right title",
+          "text1": "This text goes into the left box",
+          "text2": "This text goes into the right box",
+          "imageurl": ""
+        }
+      },
+      {
+        "tab3": {
+          "layout": 3,
+          "buttontext": "3 Box layout",
+          "title1": "Left title",
+          "title2": "Top right title",
+          "title3": "Bottom left title",
+          "text1": "This text goes into the left box",
+          "text2": "This text goes into the top right box",
+          "text3": "This text goes into the bottom right box",
+          "imageurl": ""
+        }
+      },
+      {
+        "tab4": {
+          "layout": 4,
+          "buttontext": "4 box layout",
+          "title1": "Top left title",
+          "title2": "Top right title",
+          "title3": "bottom left title",
+          "title4": "bottom right title",
+          "text1": "This text goes into the top left box",
+          "text2": "This text goes into the top right box",
+          "text3": "This text goes into the bottom left box",
+          "text4": "This text goes into the bottom right box",
+          "imageurl": ""
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Link to website",
+          "url": "https://example.com/link1"
+        }
+      },
+      {
+        "link2": {
+          "text": "Link to discord",
+          "url": "https://example.com/link2"
+        }
+      },
+      {
+        "link3": {
+          "text": "Link to google",
+          "url": "https://google.com"
+        }
+      }
+    ]
+  }
 }
