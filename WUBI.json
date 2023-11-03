@@ -4,7 +4,7 @@
             "OpenButton": 0,
             "HideIcon": false,
             "HideIconAfter": 60,
-            "IconURL": "https://i.imgur.com/zhLsBaz.png",
+            "IconURL": "https://www.noelshack.com/2023-44-4-1698936737-arkfrancelogo.png",
             "OpenOnStart": true,
             "OpenOnStartOnlyNewPlayers": false,
             "UpdateInterval": 12
@@ -12,58 +12,48 @@
         "tabs": [
             {
                 "tab1": {
-                    "layout": 0,
-                    "buttontext": "Bienvenido",
-                    "title1": "Bienvenido a Falcon Survival",
-                    "text1": "Bienvenidos a Falcon Survival.\n\nPor favor, lean las reglas. Tenemos un servidor de Discord (vinculado) y un sitio web (vinculado). \n\nTodas las donaciones irán directamente a mi cuenta de Hosting y se utilizarán para el tiempo del servidor, mejoras y, si hay suficiente, para un clúster.\n\nEs posible que los mods del servidor se actualicen y se añadan con el tiempo.\n\nArk-ASA es nuevo, por lo que es posible que se presenten algunos errores, pero intento no hacer rollback o reinicios completos a menos que no tenga otra opción.",
-                    "imageurl": ""
+                    "layout": 1,
+                    "buttontext": "Bienvenue",
+                    "title1": "Bienvenue sur notre serveur jeune aventurier !",
+                    "text1": "Bienvenue sur notre serveur ARK Ascended - Là où les aventuriers deviennent des légendes ! Vous êtes prêt à vous plonger dans un monde brutal, préhistorique, rempli de mystères et de créatures fantastiques ? Alors ARK Ascended est l'endroit idéal pour vous ! Notre serveur ARK offre une expérience de jeu unique et immersive pour les survivants les plus intrépides.\n\nCaractéristiques du serveur :\nLa carte Ascension Exclusive : Explorez une version repensée de l'île d'ARK, avec des modifications uniques et des défis inédits qui vous attendent à chaque coin de la carte.\nCommunauté active : Rejoignez une communauté de joueurs passionnés qui partagent votre amour pour ARK. Notre serveur est composé de joueurs de tous niveaux d'expérience, prêts à s'entraider et à collaborer pour survivre.\nRessources équilibrées : Nous avons soigneusement ajusté les taux de récolte, de croissance et d'apprivoisement pour garantir un équilibre entre le défi de la survie et le plaisir de jouer.\nÉvénements spéciaux : Nous organisons régulièrement des événements spéciaux, des courses de dinosaures, des arènes de combat et bien plus encore pour pimenter votre aventure sur ARK.\nAdmin dévoués : Notre équipe d'administration est disponible pour résoudre les problèmes, garantir le fair-play et s'assurer que votre expérience de jeu est exceptionnelle.",
+                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
             },
             {
                 "tab2": {
-                    "layout": 1,
-                    "buttontext": "Normas",
-                    "title1": "Normas",
-                    "text1": "Respeta a los demás, no seas grosero, agresivo o simplemente un imbécil.\n\nSOLO ESPAÑOL/INGLES\n\nEste es un servidor de habla Hispana. Pedimos educadamente que traduzcas o hagas tu mejor esfuerzo para usar el inglés. Si alguien desea ayudarte en tu idioma nativo, te pedimos que lo hagas en el chat de tribu o el chat local/global debe ser solo en español/inglés.\n\nNo construyas una base cerca de la de otra persona, si estás obstaculizando su espacio de construcción, tu base podría ser eliminada. Si llegaste primero, el área es tuya.\n\nSi necesitas ayuda, contacta a un administrador o a @Araaxyss en Discord.\n\nNo atraigas dinosaurios salvajes a las bases de otras personas.\n\nNo arrastres los cuerpos dormidos de las personas a áreas peligrosas como el agua o la lava.\n\nDiviértete.\n\nMás reglas pueden ser añadidas a medida que las pensemos.",
-                    "imageurl": ""
-                }
-            },
-            {
-                "tab3": {
                     "layout": 2,
-                    "buttontext": "Welcome",
-                    "title1": "Welcome to Falcon Survival",
-                    "text1": "Welcome to the Falcon Survival Ark Ascended Server.\n\nPlease read the rules, we have a discord (linked) and a website(linked)./nAll donations will go directly into my Hosting account and will be spent on server time, upgrades and if enough a cluster\n\nServer mods maybe updated and added to over time\n\nArk-ASA is new so some bugs are to be expected but I try not to rollback or wipe unless I have no choice.",
-                    "imageurl": ""
-                }
-            },
-            {
-                "tab4": {
-                    "layout": 3,
-                    "buttontext": "Rules",
-                    "title1": "Rules",
-                    "text1": "1) Respect others don't be rude, aggressive or just an @ss.\n\n2)SPANISH/ENGLISH ONLY\nThis is an Spanish-speaking server. We politely ask that you translate or do your best at using English. If someone wishes to help you in your native language, we ask you to do that in Tribe chat or Local Global should be Spanish/English only.\n\n3) Do not build a base near someone else, if you are impeding their build space your base may get deleted. If you are there first your area is yours.\n4) If you need a resolution contact an Admin or @Araaxyss in Discord.\n\n5) Do not drag wild dinos to people bases\n\n4) Do not drag peoples sleeping bodies into dangerous areas like water or lava.\n\n6) Have Fun\n\n\nMore Rules maybe added as we think of them.",
-                    "imageurl": ""
+                    "buttontext": "Règles",
+                    "title1": "Règles des serveur :",
+                    "text1": "Règlement général :\n1. Respect des autres joueurs :\n- Soyez courtois et respectueux envers les autres survivants.\n- Évitez les comportements offensants, le harcèlement, et les insultes.\n- Aucune discrimination, discours de haine ou langage inapproprié n'est toléré.\n\n2. Tricherie et exploitation de bugs :\n- Toute forme de triche, y compris l'utilisation de logiciels tiers, est strictement interdite.\n- N'exploitez pas les bugs du jeu pour obtenir un avantage injuste. Signalez-les plutôt à l'administration.\n\n3. Griefing et intimidation :\n- Ne casser pas intentionnellement les tames en cours des autres joueurs.\n- Évitez d'intimider les autres joueurs ou de les harceler.\n- Ne pas construire proche des autres joueurs pour éviter de ne plus pouvoir construire\n\n4. Piratage et vol :\n- Le vol d'identifiants ou de données personnelles est illégal et entraînera une expulsion immédiate et une dénonciation aux autorités compétentes.\n- N'échangez pas de comptes ARK ou de biens virtuels contre de l'argent réel.\n\n5. Remboursement en cas de crash :\n- Il n'y a pas de remboursement de stuff, dino etc sur un crash du serveur. (Nous ne sommes pas responsable des crashs du jeu)\n\n6. Publicité non autorisée :\n- Ne faites pas de publicité pour d'autres serveurs ou communautés sans autorisation préalable de l'administration.\n\n7. Administration du serveur :\n- Respectez les décisions et les instructions de l'administration du serveur.\n- Signalez tout comportement inapproprié ou toute infraction aux règles à l'administration.\n\n8. Respect des paramètres du serveur :\n- Ne modifiez pas intentionnellement les paramètres du serveur ou ne tentez pas de les contourner.\n\n9. Événements spéciaux :\n- Les événements spéciaux organisés par l'administration doivent être joués de manière équitable. Toute tentative de triche sera sévèrement sanctionnée.\n\n10. Règles additionnelles :\n- L'administration se réserve le droit d'ajouter des règles spécifiques au serveur en fonction des besoins.\n\nLe non-respect de ces règles peut entraîner des avertissements, des suspensions temporaires, ou même l'expulsion permanente du serveur, en fonction de la gravité de l'infraction. Assurez-vous que les règles sont claires et facilement accessibles aux joueurs, et veillez à les faire respecter de manière cohérente pour maintenir un environnement de jeu agréable pour tous les participants.",
+                    "title2": "Règlement Serveur ARK FRANCE :",
+                    "text2": "- Interdiction de jeter les œufs de wyverns, Magmasaure, deinonychus ou de rock drake sur les cartes. Vous empêchez le respawn des oeufs dans les nids, mangez-les !\n- Ne pas construire sur des zones à ressources (métal, cristal, obsidienne, pingouin, nids à castor, …)\n- Il est interdit de spammer les fondations pour réserver une zone\n- Vider totalement ou détruire les nids de castors pour permettre leur repop pour les prochains joueurs.\n- Laissez déverrouiller les extracteurs (pétroles, gaz et sève) pour que les autres joueurs puissent y accéder.\n- Il est interdit de bloquer les grottes contenant des artéfacts ou des glitch (pour genesis1)\n- Les enclos pour apprivoiser devront être enlevés après usage\n- Il est interdit de bloquer les ponts et les plages. Merci de laisser un passage pour les autres joueurs.\n- Il est interdit de construire des enclos démesurés par rapport à votre base et au nombre de dino.\n- Il est interdit de laisser des dinos agressifs sur la map\n- Il est interdit de bloquer les notes des explorateurs\n- Il est interdit de construire ou de mettre des tourelles dans les failles aux Wyvernes\n- Il est interdit de mettre des structures devant les drop et beacon pour les récupérer plus rapidement.\n- Il est totalement interdit de PL (Plow Leveling) les nouveaux joueurs que ce soit en leur faisant passer les boss, en leur craftant des structures qu’ils n’ont pas encore débloquées ou en leur donnant des dinos trop fort par rapport à leur level. En effet, vous risquez de gâcher leur expérience de jeu même si eux n’en sont pas conscients.",
+                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
             }
         ],
         "links": [
             {
                 "link1": {
-                    "text": "Website/Discord",
-                    "url": "https://dsc.gg/falconsurvival"
+                    "text": "ARK-FRANCE.FR",
+                    "url": "https://ark-france.fr/"
                 }
             },
             {
                 "link2": {
-                    "text": "Discord",
-                    "url": "https://discord.gg/ZyQjhjnyz"
+                    "text": "Notre Discord",
+                    "url": "https://discord.gg/DrCK6rQ7Yz"
                 }
             },
             {
                 "link3": {
-                    "text": "Tutorial Automatic ARK",
-                    "url": "https://youtu.be/kHMjTkkAPCkm"
+                    "text": "Mise à jour ARK : Ascended",
+                    "url": "https://ark-france.fr/patch-notes-ark-survival-ascended-en-francais/"
+                }
+            },
+            {
+                "link4": {
+                    "text": "Boutique",
+                    "url": "https://survivetheark.fr/"
                 }
             }
         ]
