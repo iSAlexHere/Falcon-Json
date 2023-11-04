@@ -5,7 +5,7 @@
             "HideIcon": true,
             "HideIconAfter": 60,
             "IconURL": "https://liquipedia.net/commons/images/d/da/Falcons_lightmode.png",
-            "OpenOnStart": true,
+            "OpenOnStart": false,
             "OpenOnStartOnlyNewPlayers": false,
             "UpdateInterval": 12
         },
