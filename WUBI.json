@@ -1,74 +1,86 @@
 {
-    "WBUI2": {
-        "settings": {
-           "OpenButton": 0,
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 0,
         "HideIcon": false,
         "HideIconAfter": 60,
-        "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+        "IconURL": "https://i.imgur.com/ZujufWj.gif",
         "DisableIconText": false,
         "IconPosition": 0,
         "IconTextColor": 0,
-        "OpenOnStart": false,
-        "OpenOnStartOnlyNewPlayers": false,
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": true,
         "UpdateInterval": 12
-        },
-        "tabs": [
-            {
-                "tab1": {
-                    "layout": 1,
-                    "buttontext": "Bienvenido",
-                    "title1": "Bienvenido a Falcon Survival",
-                    "text1": "Bienvenidos a Falcon Survival.\n\nPor favor, lean las reglas. Tenemos un servidor de Discord (vinculado) y un sitio web (vinculado). \n\nTodas las donaciones irán directamente a mi cuenta de Hosting y se utilizarán para el tiempo del servidor, mejoras y, si hay suficiente, para un clúster.\n\nEs posible que los mods del servidor se actualicen y se añadan con el tiempo.\n\nArk-ASA es nuevo, por lo que es posible que se presenten algunos errores, pero intento no hacer rollback o reinicios completos a menos que no tenga otra opción.",
-                    "imageurl": "https://i.imgur.com/pm8Gvp4.png"
-                }
-            },
-            {
-                "tab2": {
-                    "layout": 1,
-                    "buttontext": "Normas",
-                    "title1": "Normas",
-                    "text1": "Respeta a los demás, no seas grosero, agresivo o simplemente un imbécil.\n\nSOLO ESPAÑOL/INGLES\n\nEste es un servidor de habla Hispana. Pedimos educadamente que traduzcas o hagas tu mejor esfuerzo para usar el inglés. Si alguien desea ayudarte en tu idioma nativo, te pedimos que lo hagas en el chat de tribu o el chat local/global debe ser solo en español/inglés.\n\nNo construyas una base cerca de la de otra persona, si estás obstaculizando su espacio de construcción, tu base podría ser eliminada. Si llegaste primero, el área es tuya.\n\nSi necesitas ayuda, contacta a un administrador o a @Araaxyss en Discord.\n\nNo atraigas dinosaurios salvajes a las bases de otras personas.\n\nNo arrastres los cuerpos dormidos de las personas a áreas peligrosas como el agua o la lava.\n\nDiviértete.\n\nMás reglas pueden ser añadidas a medida que las pensemos.",
-                    "imageurl": "https://i.imgur.com/pm8Gvp4.png"
-                }
-            },
-            {
-                "tab3": {
-                    "layout": 1,
-                    "buttontext": "Welcome",
-                    "title1": "Welcome to Falcon Survival",
-                    "text1": "Welcome to the Falcon Survival Ark Ascended Server.\n\nPlease read the rules, we have a discord (linked) and a website(linked)./nAll donations will go directly into my Hosting account and will be spent on server time, upgrades and if enough a cluster\n\nServer mods maybe updated and added to over time\n\nArk-ASA is new so some bugs are to be expected but I try not to rollback or wipe unless I have no choice.",
-                    "imageurl": "https://i.imgur.com/pm8Gvp4.png"
-                }
-            },
-            {
-                "tab4": {
-                    "layout": 1,
-                    "buttontext": "Rules",
-                    "title1": "Rules",
-                    "text1": "1) Respect others don't be rude, aggressive or just an @ss.\n\n2)SPANISH/ENGLISH ONLY\nThis is an Spanish-speaking server. We politely ask that you translate or do your best at using English. If someone wishes to help you in your native language, we ask you to do that in Tribe chat or Local Global should be Spanish/English only.\n\n3) Do not build a base near someone else, if you are impeding their build space your base may get deleted. If you are there first your area is yours.\n4) If you need a resolution contact an Admin or @Araaxyss in Discord.\n\n5) Do not drag wild dinos to people bases\n\n4) Do not drag peoples sleeping bodies into dangerous areas like water or lava.\n\n6) Have Fun\n\n\nMore Rules maybe added as we think of them.",
-                    "imageurl": "https://i.imgur.com/pm8Gvp4.png"
-                }
-            }
-        ],
-        "links": [
-            {
-                "link1": {
-                    "text": "Website/Discord",
-                    "url": "https://discord.gg/SaNGzSdZD"
-                }
-            },
-            {
-                "link2": {
-                    "text": "Discord",
-                    "url": "https://discord.gg/SaNGzSdZD"
-                }
-            },
-            {
-                "link3": {
-                    "text": "Tutorial Automatic ARK",
-                    "url": "https://youtu.be/kHMjTkkAPCkm"
-                }
-            }
-        ]
-    }
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "<RichColor Color=\"1,0,0,1\">1 Box layout</>",
+          "title1": "Welcome to WBUI2!",
+          "text1": "Your text could be here.\n\nBTW, you can add as many tabs/links as you want, just follow the syntax... Until it doesnt fit anymore\n\nCheckout the available predefined colors and the syntax for a colorized and bigger letters for the general text:\n\n<TextStyle.LightBlue><TextStyle.LightBlue>LightBlue Text</></>\n<TextStyle.Red><TextStyle.Red>Red Text</></>\n<TextStyle.Green><TextStyle.Green>Green Text</></>\n<TextStyle.Blue><TextStyle.Blue>Blue Text</></>\n<TextStyle.Yellow><TextStyle.Yellow>Yellow Text</></>\n<TextStyle.Orange><TextStyle.Orange>Orange Text</></>\n<TextStyle.Violet><TextStyle.Violet>Violet Text</></>\n<TextStyle.White><TextStyle.White>White Text</></>\n<TextStyle.Black><TextStyle.Black>Black Text</></> < Yes its Black Text on a Black background\n\nYou can use the ARKML syntax to colorize the titles, normal text and button texts. ARKML uses RGBA values to define the colors. Here are some examples:\n\n<RichColor Color=\"1,0,0,1\"><RichColor Color=\",0,0,1\">Red Text</></>\n<RichColor Color=\"0,1,0,1\"><RichColor Color=\"1,0,0,1\">Green Text</></>\n\nPlease keep in mind that you <TextStyle.Red>NEED TO</> unescape the doublequotes with a backslash!!!",
+          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+        }
+      },
+      {
+        "tab2": {
+          "layout": 2,
+          "buttontext": "2 Box layout",
+          "title1": "Left title",
+          "title2": "Right title",
+          "text1": "This text goes into the left box",
+          "text2": "This text goes into the right box",
+          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+        }
+      },
+      {
+        "tab3": {
+          "layout": 3,
+          "buttontext": "3 Box layout",
+          "title1": "Left title",
+          "title2": "Top right title",
+          "title3": "Bottom left title",
+          "text1": "This text goes into the left box",
+          "text2": "This text goes into the top right box",
+          "text3": "This text goes into the bottom right box",
+          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+        }
+      },
+      {
+        "tab4": {
+          "layout": 4,
+          "buttontext": "4 Box layout",
+          "title1": "Top left title",
+          "title2": "<TextStyle.Green>Top right title</>",
+          "title3": "<TextStyle.Blue>bottom left title</>",
+          "title4": "<TextStyle.Yellow>bottom right title</>",
+          "text1": "<TextStyle.Orange>This text goes into the top left box</>",
+          "text2": "<TextStyle.Violet>This text goes into the top right box</>",
+          "text3": "<TextStyle.Red>This text goes into the bottom left box</>",
+          "text4": "<TextStyle.White>This text goes into the bottom right box</>",
+          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Link to Wiki",
+          "url": "https://github.com/DC-Modding/WBUI2-Wiki/wiki"
+        }
+      },
+      {
+        "link2": {
+          "text": "Link to discord",
+          "url": "https://discord.com/invite/K7NyrTV"
+        }
+      },
+      {
+        "link3": {
+          "text": "Link to google",
+          "url": "https://google.com"
+        }
+      }
+    ]
+  }
 }
