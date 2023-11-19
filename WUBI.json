@@ -8,9 +8,9 @@
         "DisableIconText": false,
         "IconPosition": 0,
         "IconTextColor": 0,
-        "OpenOnStart": true,
+        "OpenOnStart": false,
         "OpenOnStartOnlyNewPlayers": false,
-        "UpdateInterval": 12
+        "UpdateInterval": 1
       },
     "tabs": [
       {
